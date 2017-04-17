@@ -1,0 +1,13 @@
+Nicholas DeHart
+njd12b
+Data Mining - Project 3
+Naive Bayes Implementation
+
+assignment3DM.py was developed and tested using Python version 2.7.6 on an Ubuntu 14.04 machine.
+
+The assignment3DM.py has no dependencies or outside libraries that need to be installed.
+Only the sys library was imported in order to retrieve file paths from the command line.
+It should be portable to any linux flavored machine with Python version 2.7.6
+
+Usage: python assignment3DM.py training_file testing_file
+A makefile is NOT required.
